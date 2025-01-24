@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "948631786840",
+    "firebase_url": "https://arsenal07-default-rtdb.firebaseio.com",
+    "project_id": "arsenal07",
+    "storage_bucket": "arsenal07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948631786840:android:ff08c0b9dd5d2086acc12d",
+        "android_client_info": {
+          "package_name": "com.example.jerseyhub20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQUG9oT0CdXVje0F30UYMgtIf8TvY5Wig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948631786840:android:d50bddae51e46ca1acc12d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQUG9oT0CdXVje0F30UYMgtIf8TvY5Wig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
